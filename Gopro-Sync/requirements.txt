@@ -1,0 +1,5 @@
+wave
+stumpy
+moviepy
+numpy
+matplotlib
